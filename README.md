@@ -28,7 +28,7 @@ Recriando a página inicial do Instagram, feito durante o Bootcamps de HTML Web 
 
 ##  💻Visualização:
 
-<img src="imgmain.jpg">
+<img src="/Projeto_Instagram/imgmain.jpg">
 
 
 
