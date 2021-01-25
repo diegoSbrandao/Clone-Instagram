@@ -36,7 +36,7 @@ Recriando a página inicial do Instagram, feito durante o Bootcamps de HTML Web 
 
 
 ##  ✔Atualização:
-24/01 - Atualização: Inserção de links que direciona o usuário ao site para download ao clicar no pespectivo botão da apple store e / ou play store, ao clicar em "inscrever-se" foi colocando um link, aonde o usuário é redirecionado para a página inicial do instagram.
+24/01 - Atualização: Inserção de links que direciona o usuário ao site para download ao clicar no pespectivo botão da apple store e / ou play store, ao clicar em "inscrever-se" foi colocando um link, onde o usuário é redirecionado para a página inicial do instagram.
 
 
 
